@@ -1,0 +1,9 @@
+.pageWrapper {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  justify-content: center;
+  /* width: 100%; */
+  border: 1px solid black;
+  padding: 0 40px;
+  /* grid-template-rows: ; */
+}
